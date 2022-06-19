@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @joonhee0908
-- 👦 I'm 11 years old.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning HTML/Javascript.
